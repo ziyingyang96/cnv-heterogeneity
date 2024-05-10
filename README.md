@@ -2,7 +2,7 @@
 
 This research combines a large number of copy nymber variants (CNV) profiles and hierarchical NCIt cancer classification system, and introduces several distance/similarity measurements besed on CNV and revealed biological inconsistency between CNV and cancer classification system.
 
-![pipeline_diagram]([https://github.com/ziyingyang96/cnv-signature/blob/main/workflow.png](https://github.com/ziyingyang96/cnv-heterogeneity/blob/main/cnv-heterogeneity-workflow.png))
+![pipeline_diagram](https://github.com/ziyingyang96/cnv-heterogeneity/blob/main/cnv-heterogeneity-workflow.png)
 
 
 # Installation
